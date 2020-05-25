@@ -1,0 +1,10 @@
+replace_normal
+replace_fix STRING=3  add_str=
+
+
+
+lua文件中模式串:
+
+
+
+spend 0 second.
